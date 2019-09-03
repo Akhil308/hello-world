@@ -139,5 +139,5 @@ Want to add even more code and fun styles to your GitHub Pages website? [Follow 
 
 Getting started is the hardest part. If there’s anything you’d like to know as you get started with GitHub, try searching [GitHub Help](https://help.github.com). Our documentation has tutorials on everything from changing your repository settings to configuring GitHub from your command line.
 Hoi! 
-Ik ben Akhil! Ik kom uit India. Ik woonion in Enschede. Ik Studier in ITC. Mijn famile woont in Vizag. Ik ben 22 jaar en Ik heb een vriendin. Ze is Nederlander en ze woonion in Hardenberg. Ze is zeer mooi en lekkerding. Dooi! Goedendaag! 
+Ik ben Akhil! Ik kom uit India. Ik woonion in Enschede. Ik Studier in ITC. 
 
